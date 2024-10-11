@@ -75,8 +75,8 @@ const Signup = () => {
       </div>
       <p className="text-sm p-3">Get the app.</p>
       <div className="flex mt-1 justify-center items-center">
-        <img className="h-[40px] w-[140px] mr-2" src="../../public/google.png" alt="" />
-        <img className="h-[40px] w-[140px]" src="../../public/microsoft.png" alt="" />
+        <img className="h-[40px] w-[140px] mr-2" src="../../google.png" alt="" />
+        <img className="h-[40px] w-[140px]" src="../../microsoft.png" alt="" />
       </div>
     </div>
   );
